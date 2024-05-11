@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Rust.
 - 💞️ I’m looking to collaborate on large projects.
 - 😄 Pronouns: Any, prefer she/they though.
-- ⚡ Fun fact: I have a balck cat named Nora!
+- ⚡ Fun fact: I have a black cat named Nora!
 
 <!---
 sillyfroggy/sillyfroggy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
