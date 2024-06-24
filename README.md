@@ -2,7 +2,7 @@
 - 👀 I’m interested in software and web development with python, rust, c/c++, HTML CSS JS.
 - 🌱 I’m currently learning Rust.
 - 💞️ I’m looking to collaborate on large projects.
-- 😄 Pronouns: Any, prefer she/they though.
+- 😄 Pronouns: She/They :3
 - ⚡ Fun fact: I have a black cat named Nora!
 
 <!---
